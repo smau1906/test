@@ -357,7 +357,6 @@ nav{
 .mail__form{
 	display: flex;
 	justify-content: space-between;
-	/*align-items: center;*/
 	max-width: 54rem;
 	margin: 3.5rem auto;
 }
